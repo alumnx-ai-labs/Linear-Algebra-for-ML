@@ -23,5 +23,11 @@ pip install numpy matplotlib scikit-learn
 
 Run any file directly:
 ```bash
-python 01_vectors/vectors.py
+python3 01_vectors/vectors.py
+python3 02_matrices/matrices.py
+python3 03_dot_products/dot_products.py
+python3 04_eigenvalues/eigenvalues_pca.py
+python3 05_svd/svd.py
+python3 06_embeddings/embeddings.py
+python3 07_transformers_attention/attention.py
 ```
